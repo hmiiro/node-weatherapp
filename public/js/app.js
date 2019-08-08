@@ -1,6 +1,6 @@
 console.log('CS JS Loaded')
 
-// Select the form element
+//Select the form element
 
 const addressForm = document.querySelector('form');
 const enteredAddress = document.querySelector('input');
